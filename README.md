@@ -1,1 +1,1 @@
-# LatexNotes
+# LatexNotes for beginners
